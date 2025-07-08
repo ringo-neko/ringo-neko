@@ -7,9 +7,3 @@ webpolyを作りたい！
 最近はjavascriptしてます。前はpythonだったけど
 
 webpolyを作りたい！(2)
-
-協力したいなら。。。
-
-相談はどこかでしてください（？）
-
-まあwebpolyのissueで相談してください
