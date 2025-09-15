@@ -12,8 +12,8 @@ __こんにちは！__
 
 作品を作りたい！(2)
 
-(note)[https://note.com/sheep_program]
+<a href=https://note.com/sheep_program>note</a>
 
-(atcoder)[https://atcoder.jp/users/ringo_neko]
+<a href=https://atcoder.jp/users/ringo_neko>atcoder</a>
 
 でも活動中
